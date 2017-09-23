@@ -1,1 +1,5 @@
 .DS_Store
+properati*.csv
+env/*
+*datos_procesados*
+.ipynb_checkpoints*
